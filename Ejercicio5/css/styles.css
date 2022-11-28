@@ -1,0 +1,8 @@
+main {
+    display: flex;
+
+}
+
+div#img-min {
+    max-width: 220px;
+}
